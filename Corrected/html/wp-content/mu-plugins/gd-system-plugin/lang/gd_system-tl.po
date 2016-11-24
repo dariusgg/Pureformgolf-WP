@@ -1,0 +1,281 @@
+# Copyright (C) 2014 System Plugin
+# This file is distributed under the same license as the System Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: System Plugin\n"
+"POT-Creation-Date: 2016-02-26 10:15-0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-03-31 13:17-0500\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;_nx_noop;_ex;"
+"esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;_nc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language-Team: \n"
+"Language: tl\n"
+"X-Poedit-SearchPath-0: gd-system-plugin.php\n"
+"X-Poedit-SearchPath-1: gd-system-plugin\n"
+"X-Poedit-SearchPathExcluded-0: gd-system-plugin/plugins\n"
+
+#: gd-system-plugin.php:355
+msgid "I would be interested in hiring a professional to help me with my WordPress site."
+msgstr ""
+"Interesado ako na kumuha ng isang propesyunal na tutulong sa akin sa aking WordPress site."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:83
+msgid "Media Temple"
+msgstr "Media Temple"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:90
+msgid "Managed WordPress"
+msgstr "Pinamamahalaang WordPress"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:97
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:202
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:203
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:119
+msgid "Account Settings"
+msgstr "Mga Setting ng Account"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:131
+msgid "Flush Cache"
+msgstr "I-flush ang Cache"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:189
+msgid "UserVoice"
+msgstr "UserVoice"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:192
+msgid "Hide the UserVoice feedback button from the Dashboard"
+msgstr "Itago ang button ng feedback ng UserVoice mula sa Dashboard"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:244
+msgid "For your security, we’ve disabled WordPress’ built-in file editor by default."
+msgstr ""
+"Para sa iyong seguridad, na-disable namin nang default ang built-in na editor ng file ng "
+"WordPress."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:245
+msgid "If you enable editing, all plugin and theme files become editable."
+msgstr "Kung i-enable mo ang pag-e-edit, mae-edit ang lahat ng file ng plugin at theme."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:246
+msgid "Enable Editing"
+msgstr "I-enable ang Pag-e-edit"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:258
+msgid "File editing is not enabled on this site"
+msgstr "Hindi naka-enable sa site na ito ang pag-e-edit ng file"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:310
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:361
+#, php-format
+msgid "Sorry, but you have to <a href=\"%s\">change your domain name here</a>."
+msgstr "Paumanhin, ngunit kailangan mong <a href=\"%s\">baguhin ang iyong domain name dito</a>."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:96
+msgid "FAQ &amp; Support"
+msgstr "FAQ &amp; Suporta"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:97
+msgid "Hire a Pro"
+msgstr "Mag-hire ng Pro"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:98
+msgid "Plugin Partners"
+msgstr "Mga Kasosyo sa Plugin"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:426
+msgid "Find a Freelancer"
+msgstr "Maghanap ng Freelancer"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:436
+msgid "Need a Pro to build your website?"
+msgstr "Kailangan mo ba ng Pro upang gawin ang iyong website?"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:438
+msgid ""
+"We'll put you in touch with the best freelancer to help build your WordPress site according "
+"to your requirements and budget. It's free to try."
+msgstr ""
+"Tutulungan ka naming makipag-ugnayan sa pinakamahusay na freelancer upang tulungang gawin ang "
+"iyong WordPress site batay sa iyong mga kinakailangan at badyet. Libre lang na subukan ito."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:442
+msgid "Get an Estimate"
+msgstr "Kumuha ng Pagtatantiya"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:454
+msgid "Hire a Professional"
+msgstr "Kumuha ng Propesyunal"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:464
+msgid "Let us build it for you!"
+msgstr "Hayaan kaming gawin ito para sa iyo!"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:466
+msgid ""
+"Get your business online fast with a professionally-designed WordPress website custom "
+"tailored just for you."
+msgstr ""
+"Gawing online ang iyong negosyo gamit ang isang WordPress website na idinisenyo ng isang "
+"propesyunal na inangkop batay sa iyong kagustuhan."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:470
+msgid "Schedule a Call"
+msgstr "Mag-iskedyul ng Tawag"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:472
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:603
+msgid "Learn More"
+msgstr "Alamin ang Higit Pa"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:500
+msgid "Meet the plugins that meet our high standards."
+msgstr "Tingnan ang mga plugin na tumutugon sa ating mga mataas na pamantayan."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:502
+msgid ""
+"We've partnered with the world’s top WordPress plugin authors to provide a list of plugins "
+"that work well with GoDaddy WordPress hosting."
+msgstr ""
+"Nakipagsosyo kami sa mga nangungunang author ng plugin sa WordPress sa buong mundo upang "
+"magbigay ng listahan ng mga plugin na maayos na gumagana sa hosting ng GoDaddy WordPress."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:512
+msgid "Plugins list"
+msgstr "Listahan ng mga plugin"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:520
+msgid ""
+"Whoops! There was a problem fetching the list of plugins, please try reloading this page."
+msgstr ""
+"Naku! Nagkaproblema sa pagkuha ng listahan ng mga plugin, pakisubukang muling i-load ang page "
+"na ito."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:565
+#, php-format
+msgid "More information about %s"
+msgstr "Higit pang impormasyon tungkol sa %s"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:589
+#, php-format
+msgid "Install %s now"
+msgstr "I-install ang %s ngayon"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:589
+msgid "Install Now"
+msgstr "I-install Ngayon"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:593
+#, php-format
+msgid "Update %s now"
+msgstr "I-update ang %s ngayon"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:593
+msgid "Update Now"
+msgstr "I-update Ngayon"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:597
+msgid "This plugin is already installed and is up to date"
+msgstr "Ang plugin na ito ay naka-install na at napapanahon"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:597
+msgid "Installed"
+msgstr "Naka-install"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:617
+#, php-format
+msgid "By %s"
+msgstr "Ng/Ni %s"
+
+#: gd-system-plugin/class-gd-system-plugin-api.php:80
+#, php-format
+msgid "Unknown verb: %s. Try GET or POST"
+msgstr "Hindi alam na pandiwa: %s. Subukan ang GET o POST"
+
+#: gd-system-plugin/class-gd-system-plugin-api.php:115
+#, php-format
+msgid "API returned bad status: %d: %s"
+msgstr "Nagresulta ng hindi magandang status ang API: %d: %s"
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:86
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:101
+msgid "Not available"
+msgstr "Hindi available"
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:87
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:102
+msgid ""
+"This plugin is not allowed on our system due to performance, security, or compatibility "
+"concerns. Please contact our support with any questions."
+msgstr ""
+"Hindi pinapayagan ang plugin na ito sa ating system dahil sa mga alalahanin sa pagganap, "
+"seguridad o compatibility. Mangyaring makipag-ugnayan sa aming suporta sa anumang mga tanong. "
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:123
+#, php-format
+msgid "This plugin %s is not allowed on our system. It has been automatically deactivated."
+msgstr ""
+"Ang plugin na ito %s ay hindi pinapayagan sa ating system. Awtomatiko na itong na-deactivate."
+
+#: gd-system-plugin/class-gd-system-plugin-cache-purge.php:295
+#: gd-system-plugin/class-gd-system-plugin-command-controller.php:66
+msgid "Cache cleared"
+msgstr "Na-clear ang cache"
+
+#: gd-system-plugin/class-gd-system-plugin-cname.php:137
+#, php-format
+msgid ""
+"<strong>Note:</strong> You're using the temporary domain <strong>%s</strong>. <a href=\"%s\" "
+"target=\"_blank\">Change domain</a>"
+msgstr ""
+"<strong>Tandaan:</strong> Ginagamit mo ang pansamantalang domain na <strong>%s</strong>. <a "
+"href=\"%s\" target=\"_blank\">Baguhin ang domain</a>"
+
+#: gd-system-plugin/class-gd-system-plugin-command-controller.php:163
+msgid "File editing enabled"
+msgstr "Na-enable ang pag-e-edit ng file"
+
+#: gd-system-plugin/class-gd-system-plugin-dashboard-widgets.php:61
+msgid "GoDaddy Garage"
+msgstr "GoDaddy Garage"
+
+#: gd-system-plugin/class-gd-system-plugin-messages.php:90
+msgid "Success"
+msgstr "Tagumpay"
+
+#: gd-system-plugin/class-gd-system-plugin-pointers.php:47
+msgid "Good news!"
+msgstr "Magandang balita!"
+
+#: gd-system-plugin/class-gd-system-plugin-pointers.php:48
+msgid ""
+"You can now access <strong>Flush Cache</strong> and other links directly from the admin bar "
+"using your desktop or mobile device."
+msgstr ""
+"Maaari mo na ngayong i-access ang <strong>Flush Cache</strong> at iba pang mga link nang "
+"direkta mula sa admin bar gamit ang iyong desktop o mobile device."
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:88
+#, php-format
+msgid "%s This is your staging site and it cannot be indexed by search engines."
+msgstr "%s Ito ang iyong staging site at hindi ito maaaring malista ng mga search engine."
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:89
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:96
+msgid "Note:"
+msgstr "Tandaan:"
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:95
+#, php-format
+msgid "%s Your site is using a temporary domain that cannot be indexed by search engines."
+msgstr ""
+"%s Ang iyong site ay gumagamit ng isang pansamantalang domain ay hindi maaaring ilista ng mga "
+"search engine."

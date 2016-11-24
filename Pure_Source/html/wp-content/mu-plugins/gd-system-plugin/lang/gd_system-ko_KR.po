@@ -1,0 +1,284 @@
+# Copyright (C) 2014 System Plugin
+# This file is distributed under the same license as the System Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: System Plugin\n"
+"POT-Creation-Date: 2016-02-26 10:15-0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-03-31 13:18-0500\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;_nx_noop;"
+"_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;_nc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"X-Poedit-SearchPath-0: gd-system-plugin.php\n"
+"X-Poedit-SearchPath-1: gd-system-plugin\n"
+"X-Poedit-SearchPathExcluded-0: gd-system-plugin/plugins\n"
+
+#: gd-system-plugin.php:355
+msgid ""
+"I would be interested in hiring a professional to help me with my WordPress site."
+msgstr ""
+"저는 워드프레스 사이트를 제작 또는 관리하는 데 도와줄 전문가를 고용하고 싶습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:83
+msgid "Media Temple"
+msgstr "Media Temple"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:90
+msgid "Managed WordPress"
+msgstr "관리형 워드프레스"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:97
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:202
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:203
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:119
+msgid "Account Settings"
+msgstr "계정 설정"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:131
+msgid "Flush Cache"
+msgstr "캐시 지우기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:189
+msgid "UserVoice"
+msgstr "사용자 의견"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:192
+msgid "Hide the UserVoice feedback button from the Dashboard"
+msgstr "대시보드에서 사용자 의견 버튼을 숨깁니다"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:244
+msgid "For your security, we’ve disabled WordPress’ built-in file editor by default."
+msgstr "귀하의 보안을 위해 WordPress의 내장 기능인 파일 편집기를 비활성화했습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:245
+msgid "If you enable editing, all plugin and theme files become editable."
+msgstr "편집을 사용하면 모든 플러그인과 테마 파일을 편집할 수 있습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:246
+msgid "Enable Editing"
+msgstr "편집 사용하기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:258
+msgid "File editing is not enabled on this site"
+msgstr "이 사이트에 파일 편집 기능이 활성화되어 있지 않습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:310
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:361
+#, php-format
+msgid "Sorry, but you have to <a href=\"%s\">change your domain name here</a>."
+msgstr ""
+"죄송합니다. 귀하는 <a href=\"%s\">여기에서 도메인 이름을 변경해야 합니다</a>."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:96
+msgid "FAQ &amp; Support"
+msgstr "FAQ &amp; 지원"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:97
+msgid "Hire a Pro"
+msgstr "전문가 고용하기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:98
+msgid "Plugin Partners"
+msgstr "플러그인 협력업체"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:426
+msgid "Find a Freelancer"
+msgstr "프리랜서 찾기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:436
+msgid "Need a Pro to build your website?"
+msgstr "웹사이트를 디자인하기 위해 전문가가 필요합니까?"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:438
+msgid ""
+"We'll put you in touch with the best freelancer to help build your WordPress site "
+"according to your requirements and budget. It's free to try."
+msgstr ""
+"귀하의 요구조건과 예산에 알맞게, 귀하가 워드프레스 사이트를 구축하는 데 도와줄 최고"
+"의 프리랜서를 소개해 드립니다. 무료로 이용해 보십시오."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:442
+msgid "Get an Estimate"
+msgstr "견적 받기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:454
+msgid "Hire a Professional"
+msgstr "전문가 고용"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:464
+msgid "Let us build it for you!"
+msgstr "저희가 구축해 드리겠습니다!"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:466
+msgid ""
+"Get your business online fast with a professionally-designed WordPress website "
+"custom tailored just for you."
+msgstr ""
+"귀하에게 알맞게 전문가가 디자인한 워드프레스 웹사이트를 신속하게 구축하여 귀하의 비"
+"즈니스를 온라인으로 처리하십시오."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:470
+msgid "Schedule a Call"
+msgstr "전화 통화 예약하기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:472
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:603
+msgid "Learn More"
+msgstr "자세한 정보"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:500
+msgid "Meet the plugins that meet our high standards."
+msgstr "당사의 엄격한 기준을 충족하는 플러그인을 이용할 수 있습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:502
+msgid ""
+"We've partnered with the world’s top WordPress plugin authors to provide a list of "
+"plugins that work well with GoDaddy WordPress hosting."
+msgstr ""
+"당사는 세계 최고의 WordPress 플러그인 작성자들과 협력하여 GoDaddy WordPress 호스팅"
+"에 적합한 플러그인 목록을 제공합니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:512
+msgid "Plugins list"
+msgstr "플러그인 목록"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:520
+msgid ""
+"Whoops! There was a problem fetching the list of plugins, please try reloading "
+"this page."
+msgstr ""
+"이런! 플러그인 목록을 읽어 오는데 오류가 발생했습니다. 이 페이지를 다시 로드하십시"
+"오."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:565
+#, php-format
+msgid "More information about %s"
+msgstr "%s에 대한 추가 정보"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:589
+#, php-format
+msgid "Install %s now"
+msgstr "지금 %s 설치하기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:589
+msgid "Install Now"
+msgstr "지금 설치"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:593
+#, php-format
+msgid "Update %s now"
+msgstr "지금 %s 업데이트하기"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:593
+msgid "Update Now"
+msgstr "지금 업데이트"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:597
+msgid "This plugin is already installed and is up to date"
+msgstr "이 플러그인의 최신 버전이 이미 설치되었습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:597
+msgid "Installed"
+msgstr "설치됨"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:617
+#, php-format
+msgid "By %s"
+msgstr "작성자: %s"
+
+#: gd-system-plugin/class-gd-system-plugin-api.php:80
+#, php-format
+msgid "Unknown verb: %s. Try GET or POST"
+msgstr "알 수 없는 명령어: %s. GET을(를) 해보거나 POST"
+
+#: gd-system-plugin/class-gd-system-plugin-api.php:115
+#, php-format
+msgid "API returned bad status: %d: %s"
+msgstr "API 불량 상태 반환: %d: %s"
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:86
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:101
+msgid "Not available"
+msgstr "사용할 수 없음"
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:87
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:102
+msgid ""
+"This plugin is not allowed on our system due to performance, security, or "
+"compatibility concerns. Please contact our support with any questions."
+msgstr ""
+"이 플러그인은 성능, 보안 또는 호환성 문제로 당사의 시스템에서 허용되지 않습니다. 기"
+"타 질문에 대해 지원 센터로 연락해 주십시오."
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:123
+#, php-format
+msgid ""
+"This plugin %s is not allowed on our system. It has been automatically deactivated."
+msgstr ""
+"이 플러그인은 %s 당사의 시스템에서 허용되지 않습니다. 이 기능은 자동으로 비활성화되"
+"었습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-cache-purge.php:295
+#: gd-system-plugin/class-gd-system-plugin-command-controller.php:66
+msgid "Cache cleared"
+msgstr "캐시를 지웠습니다"
+
+#: gd-system-plugin/class-gd-system-plugin-cname.php:137
+#, php-format
+msgid ""
+"<strong>Note:</strong> You're using the temporary domain <strong>%s</strong>. <a "
+"href=\"%s\" target=\"_blank\">Change domain</a>"
+msgstr ""
+"<strong>주의:</strong> 귀하는 임시 도메인 <strong>%s</strong>을(를) 사용 중입니다. "
+"<a href=\"%s\" target=\"_blank\">도메인 변경</a>"
+
+#: gd-system-plugin/class-gd-system-plugin-command-controller.php:163
+msgid "File editing enabled"
+msgstr "파일 편집이 활성화되었습니다"
+
+#: gd-system-plugin/class-gd-system-plugin-dashboard-widgets.php:61
+msgid "GoDaddy Garage"
+msgstr "GoDaddy 차고"
+
+#: gd-system-plugin/class-gd-system-plugin-messages.php:90
+msgid "Success"
+msgstr "성공"
+
+#: gd-system-plugin/class-gd-system-plugin-pointers.php:47
+msgid "Good news!"
+msgstr "좋은 소식입니다!"
+
+#: gd-system-plugin/class-gd-system-plugin-pointers.php:48
+msgid ""
+"You can now access <strong>Flush Cache</strong> and other links directly from the "
+"admin bar using your desktop or mobile device."
+msgstr ""
+"데스크톱 또는 휴대용 기기에서 관리자(admin) 바를 사용하여 <strong>캐시 비우기</"
+"strong>와 기타 링크를 직접 액세스할 수 있습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:88
+#, php-format
+msgid "%s This is your staging site and it cannot be indexed by search engines."
+msgstr "%s 이것은 귀하의 스테이징 사이트이며 검색 엔진으로 인덱싱 할 수 없습니다."
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:89
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:96
+msgid "Note:"
+msgstr "참고:"
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:95
+#, php-format
+msgid ""
+"%s Your site is using a temporary domain that cannot be indexed by search engines."
+msgstr ""
+"%s 귀하의 사이트는 검색 엔진에서 인텍싱 할 수 없는 임시 도메인을 사용 중입니다."

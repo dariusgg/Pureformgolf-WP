@@ -1,0 +1,274 @@
+# Copyright (C) 2014 System Plugin
+# This file is distributed under the same license as the System Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: System Plugin\n"
+"POT-Creation-Date: 2016-02-26 10:15-0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-03-31 13:17-0500\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;_nx_noop;_ex;"
+"esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;_nc\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: gd-system-plugin.php\n"
+"X-Poedit-SearchPath-1: gd-system-plugin\n"
+"X-Poedit-SearchPathExcluded-0: gd-system-plugin/plugins\n"
+
+#: gd-system-plugin.php:355
+msgid "I would be interested in hiring a professional to help me with my WordPress site."
+msgstr "WordPress sitemle ilgili yardım almak için bir profesyonel ile çalışmak isterim."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:83
+msgid "Media Temple"
+msgstr "Media Temple"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:90
+msgid "Managed WordPress"
+msgstr "Yönetilebilir WordPress"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:97
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:202
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:203
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:119
+msgid "Account Settings"
+msgstr "Hesap Ayarları"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:131
+msgid "Flush Cache"
+msgstr "Önbelleği Temizle"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:189
+msgid "UserVoice"
+msgstr "UserVoice"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:192
+msgid "Hide the UserVoice feedback button from the Dashboard"
+msgstr "UserVoice geribildirim düğmesini Panodan sakla"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:244
+msgid "For your security, we’ve disabled WordPress’ built-in file editor by default."
+msgstr ""
+"Güvenliğiniz için WordPress yerleşik dosya düzenleyicisini varsayılan olarak devre dışı "
+"bıraktık."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:245
+msgid "If you enable editing, all plugin and theme files become editable."
+msgstr "Düzenlemeyi etkinleştirirseniz, tüm eklenti ve tema dosyaları düzenlenebilir hale gelir."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:246
+msgid "Enable Editing"
+msgstr "Düzenlemeyi Etkinleştir"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:258
+msgid "File editing is not enabled on this site"
+msgstr "Bu sitede dosya düzenleme etkin değildir"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:310
+#: gd-system-plugin/class-gd-system-plugin-admin-menu.php:361
+#, php-format
+msgid "Sorry, but you have to <a href=\"%s\">change your domain name here</a>."
+msgstr "Maalesef <a href=\"%s\">burada alan adınızı değiştirmeniz</a> gerekir."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:96
+msgid "FAQ &amp; Support"
+msgstr "SSS &amp; Destek"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:97
+msgid "Hire a Pro"
+msgstr "Bir Profesyonel ile Çalışın"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:98
+msgid "Plugin Partners"
+msgstr "Ortak Eklentiler"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:426
+msgid "Find a Freelancer"
+msgstr "Serbest bir Çalışan Bulun"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:436
+msgid "Need a Pro to build your website?"
+msgstr "Web sitesi tasarımınız için bir profesyonele mi ihtiyacınız var?"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:438
+msgid ""
+"We'll put you in touch with the best freelancer to help build your WordPress site according to "
+"your requirements and budget. It's free to try."
+msgstr ""
+"WordPress sitenizi gereksinimlerinize ve bütçenize göre sizin istediğiniz şekilde ayarlayacak "
+"en iyi serbest çalışanlarla iletişim kurmanızı sağlayalım. Denemek ücretsiz."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:442
+msgid "Get an Estimate"
+msgstr "Tahmini bir Fiyat Alın"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:454
+msgid "Hire a Professional"
+msgstr "Bir Profesyonel ile Çalışın"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:464
+msgid "Let us build it for you!"
+msgstr "Sitenizi sizin için biz geliştirelim!"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:466
+msgid ""
+"Get your business online fast with a professionally-designed WordPress website custom tailored "
+"just for you."
+msgstr ""
+"Sadece size özel olarak, profesyonel dokunuşlarla tasarlanmış bir WordPress web sitesiyle "
+"işletmeniz çevrimiçi dünyaya hızlı adımlarla \"merhaba\" desin."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:470
+msgid "Schedule a Call"
+msgstr "Telefon Görüşmesi Planlayın"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:472
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:603
+msgid "Learn More"
+msgstr "Daha Fazla Bilgi Edinin"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:500
+msgid "Meet the plugins that meet our high standards."
+msgstr "Yüksek standartları karşılayan eklentilere kavuşun."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:502
+msgid ""
+"We've partnered with the world’s top WordPress plugin authors to provide a list of plugins "
+"that work well with GoDaddy WordPress hosting."
+msgstr ""
+"GoDaddy WordPress barındırma ile iyi çalışan eklenti listelerini sunmak adına dünyanın en iyi "
+"WordPress eklenti yazarlarıyla birlikte çalışıyoruz. "
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:512
+msgid "Plugins list"
+msgstr "Eklenti listeleri"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:520
+msgid "Whoops! There was a problem fetching the list of plugins, please try reloading this page."
+msgstr "Hoppala! Eklenti listelerinde bir problem varsa, lütfen sayfayı tekrar yükleyin."
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:565
+#, php-format
+msgid "More information about %s"
+msgstr "%s hakkında ayrıntılı bilgi alın"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:589
+#, php-format
+msgid "Install %s now"
+msgstr "Şu an %s yükleniyor"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:589
+msgid "Install Now"
+msgstr "Şu an yüklendi"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:593
+#, php-format
+msgid "Update %s now"
+msgstr "Şu an %s güncelleniyor"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:593
+msgid "Update Now"
+msgstr "Şu an güncellendi"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:597
+msgid "This plugin is already installed and is up to date"
+msgstr "Bu eklenti zaten yüklenmiş ve güncel"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:597
+msgid "Installed"
+msgstr "Kuruldu"
+
+#: gd-system-plugin/class-gd-system-plugin-admin-page.php:617
+#, php-format
+msgid "By %s"
+msgstr "%s tamamlandı"
+
+#: gd-system-plugin/class-gd-system-plugin-api.php:80
+#, php-format
+msgid "Unknown verb: %s. Try GET or POST"
+msgstr "Bilinmeyen fiil: %s. AL ya da PAYLAŞ fiillerini deneyin"
+
+#: gd-system-plugin/class-gd-system-plugin-api.php:115
+#, php-format
+msgid "API returned bad status: %d: %s"
+msgstr "API hatalı duruma geçti: %d: %s"
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:86
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:101
+msgid "Not available"
+msgstr "Yok"
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:87
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:102
+msgid ""
+"This plugin is not allowed on our system due to performance, security, or compatibility "
+"concerns. Please contact our support with any questions."
+msgstr ""
+"Performans, güvenlik ya da uyumluluk endişeleri nedeniyle bu eklentiye sisteminizde izin "
+"verilmiyor. Lütfen her türlü soru için destek ekibimizle iletişime geçin."
+
+#: gd-system-plugin/class-gd-system-plugin-blacklist.php:123
+#, php-format
+msgid "This plugin %s is not allowed on our system. It has been automatically deactivated."
+msgstr "Bu eklentiye %s sisteminizde izin verilmiyor. Otomatik olarak devre dışı bırakıldı."
+
+#: gd-system-plugin/class-gd-system-plugin-cache-purge.php:295
+#: gd-system-plugin/class-gd-system-plugin-command-controller.php:66
+msgid "Cache cleared"
+msgstr "Önbellek temizlendi"
+
+#: gd-system-plugin/class-gd-system-plugin-cname.php:137
+#, php-format
+msgid ""
+"<strong>Note:</strong> You're using the temporary domain <strong>%s</strong>. <a href=\"%s\" "
+"target=\"_blank\">Change domain</a>"
+msgstr ""
+"<strong>Not:</strong> Geçici alan adı kullanıyorsunuz <strong>%s</strong>. <a href=\"%s\" "
+"target=\"_blank\">Alan adını değiştir</a>"
+
+#: gd-system-plugin/class-gd-system-plugin-command-controller.php:163
+msgid "File editing enabled"
+msgstr "Dosya düzenleme etkinleştirildi"
+
+#: gd-system-plugin/class-gd-system-plugin-dashboard-widgets.php:61
+msgid "GoDaddy Garage"
+msgstr "GoDaddy Garaj"
+
+#: gd-system-plugin/class-gd-system-plugin-messages.php:90
+msgid "Success"
+msgstr "Başarılı"
+
+#: gd-system-plugin/class-gd-system-plugin-pointers.php:47
+msgid "Good news!"
+msgstr "Size iyi bir haberimiz var!"
+
+#: gd-system-plugin/class-gd-system-plugin-pointers.php:48
+msgid ""
+"You can now access <strong>Flush Cache</strong> and other links directly from the admin bar "
+"using your desktop or mobile device."
+msgstr ""
+"Artık bilgisayarınızı ya da mobil cihazınızı kullanarak yönetici çubuğundan doğrudan "
+"<strong>Önbelleği Temizle</strong> seçeneğine ve diğer bağlantılara erişebilirsiniz."
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:88
+#, php-format
+msgid "%s This is your staging site and it cannot be indexed by search engines."
+msgstr "%s Burası sizin evreleme sitenizdir ve arama motorlarında listelenmez."
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:89
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:96
+msgid "Note:"
+msgstr "Not:"
+
+#: gd-system-plugin/class-gd-system-plugin-temp-domain.php:95
+#, php-format
+msgid "%s Your site is using a temporary domain that cannot be indexed by search engines."
+msgstr "%s Siteniz, arama motorlarında listelenmeyen, geçici bir alan adı kullanıyor."

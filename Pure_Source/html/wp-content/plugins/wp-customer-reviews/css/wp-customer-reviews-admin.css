@@ -1,0 +1,10 @@
+/* v3.0.1 09.29.2015.1844 */
+
+.wpcr3_myplugin_options h2 { position:relative; }
+.wpcr3_myplugin_options h2 .need_pro { display:inline-block; font-size:13px; margin-left:20px; position:relative; top:-10px; font-weight:bold; }
+
+.wpcr3_myplugin_options .w40px { width:40px; }
+.wpcr3_myplugin_options .w200px { width:200px; }
+.wpcr3_myplugin_options .w250px { width:250px; }
+
+#wpcr3-meta-box b { font-weight:bold;color:#000; }

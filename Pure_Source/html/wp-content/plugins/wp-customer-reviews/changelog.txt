@@ -1,0 +1,73 @@
+= 3.1.2 =
+* 04/21/2016
+* [Update] Made activation process simpler
+* [Update] Images losslessly compressed
+
+= 3.1.1 =
+* 04/19/2016
+* [Bugfix] Fixed possible issues with WordPress 3.6
+
+= 3.1.0 =
+* 04/09/2016
+* [Bugfix] Fixed possible issue with PHP 7.0
+
+= 3.0.9 =
+* 04/05/2016
+* [Security] Prevented CSRF and XSS in admin tools.
+
+= 3.0.8 =
+* 01/04/2016
+* [Bugfix] Fixed the appearance of a security hole with admin tools. Malicious action was not possible.
+* [Bugfix] Fixed deprecation warning with wpseo_pre_analysis_post_content (Yoast SEO).
+
+= 3.0.7 =
+* 11/15/2015
+* [Bugfix] In some installations, ajax requests were still failing. We are reverting to using admin-ajax once again.
+
+= 3.0.6 =
+* 11/12/2015
+* [Bugfix] In some installations, a dynamic CSS file could not be written upon plugin activation.
+* [Bugfix] In some installations, ajax requests to admin-ajax were failing. We are trying a new method.
+* [Bugfix] In some installations, the number of reviews displayed for "Average Rating" was inflated.
+* [Bugfix] Email notifications for new reviews were missing a timestamp in the subject line.
+* [Bugfix] When using [WPCR_SHOW POSTID="123"] shortcode on the page ID 123, reviews would output twice.
+* [Bugfix] When a page had 0 reviews, the average rating would show 2.5 stars instead of 0.
+* [Feature] Added PAGINATE and PERPAGE as shortcode options.
+
+= 3.0.5 =
+* 10/19/2015
+* [Bugfix] JavaScript will now work with older versions of jQuery
+
+= 3.0.4 =
+* 10/18/2015
+* [Bugfix] Fixed post/page saving issue
+
+= 3.0.3 =
+* 10/18/2015
+* [Bugfix] Fix for broken JavaScript
+
+= 3.0.2 =
+* 10/18/2015
+* [Bugfix] Shortcode copied/pasted itno WP visual editor should now work better
+* [Bugfix] Migrating from 2.x would sometimes duplicate imported reviews ( see "Tools" settings tab for fix )
+* [Bugfix] Migrating from 2.x would sometimes skip importing reviews ( see "Tools" settings tab for fix )
+* [Bugfix] When paginating reviews on the front-end, "reviewed on" page links would sometimes be not linked
+* [Bugfix] Relaxed the human detection anti-spam rules a bit
+* [Bugfix] Fixed "failed the spambot check" issue when WP back-end is SSL, but front-end is not
+* [Bugfix] Fixed some PHP error notices
+* [Bugfix] JavaScript will now work with older versions of jQuery
+* [Update] "Tools" tab added to plugin settings. This will contain various methods for managing/fixing review data.
+* [Update] When adding reviews manually in WP admin, the WP post title now matches user-added reviews
+* [Update] You can now edit the WP post title of reviews
+
+= 3.0.1 =
+* 09/29/2015
+* [Update] Enabled for custom post types
+* [Update] Upgrading from 2.x should go smoother for some people
+
+= 3.0.0 =
+* 09/10/2015 3.0.0 Release
+* [Bugfix] Bulk edit for custom review post type now works.
+* [Bugfix] Fixed an awful incompatibility issue.
+* [Bugfix] "Snippet" and "More" were not working.
+* [Update] Removed some unnecessary JS from being output on pages

@@ -1,0 +1,2 @@
+[20-Oct-2015 15:59:28 UTC] PHP Fatal error:  Call to undefined function home_url() in /home/ajendersingh/public_html/wp-content/plugins/pureform/jx_common.php on line 28
+[20-Oct-2015 16:03:26 UTC] PHP Fatal error:  Call to undefined function home_url() in /home/ajendersingh/public_html/wp-content/plugins/pureform/jx_common.php on line 28

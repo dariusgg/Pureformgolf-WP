@@ -1,0 +1,179 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WooCommerce Google Analytics Integration"
+msgstr ""
+
+#. Short description.
+msgid "Provides integration between Google Analytics and WooCommerce."
+msgstr ""
+
+#. Screenshot description.
+msgid "Google Analytics Integration Settings."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin provides the integration between Google Analytics and the WooCommerce plugin. You can link a referral to a purchase and add transaction information to your Google Analytics data. It also supports the new Universal Analytics, eCommerce, and enhanced eCommerce event tracking."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Starting WooCommerce 2.1, this integration will no longer be part of WooCommerce and will only be available by using this plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Contributions are welcome via the <a href=\"https://github.com/woothemes/woocommerce-google-analytics-integration\">GitHub repository</a>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin file to your computer and unzip it"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation’s wp-content/plugins/ directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin from the Plugins menu within the WordPress admin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Don't forget to enable e-commerce tracking in your Google Analytics account: https://support.google.com/analytics/answer/1009612?hl=en"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Or use the automatic installation wizard through your admin panel, just search for this plugins name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature  - Added the transaction currency in the tracking code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature  - Add data privacy option that are mandatory in some countries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak    - Moved the tracking code to the head of the page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak    - Remove the \"SKU\" prefix to the sku for addItem"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor - Integration class reformulated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Adding option to anonymize IP addresses"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Adding gaOptOut function to be called from any page for OptOut"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak   - Adding utmnooverride to return url for Google Adwords"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Adding display advertising parameter to Universal Analytics"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix     - Using get_total_shipping() instead of get_shipping"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix     - Using wc_enqueue_js() instead of $woocommerce-&gt;add_inline_js("
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak   - Updating plugin FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak   - Adding parenthesis for clarity"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to enable Display Advertising"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added compatibility support for WooCommerce 2.1 beta releases"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"= 1.4.0 - 20-11-2015\n"
+"* Feature - Support for enhanced eCommerce (tracking full store process from view to order)\n"
+"* Tweak - Setting up the plugin is now clearer with some helpful links and clearer language\n"
+"* Tweak - New filter on the ga global variable\n"
+"* Refactor - JavaScript generation functions have been moved to their own class"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I find the setting for this plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I don't see the code on my site. Where is it?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My code is there. Why is it still not tracking sales?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I install it already?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My national data privacy laws require that I offer an opt-out for users, how can I do this?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This plugin will add the settings to the Integration tab, to be found in the WooCommerce &gt; Settings menu."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "We purposefully don't track admin visits to the site. Log out of the site (or open a Google Chrome Incognito window) and check if the site is there for non-admins."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Also please make sure your Google Analytics ID under WooCommerce -&gt; Settings -&gt; Integrations."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Duplicate Google Analytics code causes a conflict in tracking. Remove any other Google Analytics plugin or code from your site to avoid duplication and conflicts in tracking."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Starting the WooCommerce 2.1 release, the Google Analytics integration for WooCommerce is no longer part of the WooCommerce plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Until you've updated to WooCommerce 2.1, this plugin puts itself in some sort of hibernate mode."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can leave this plugin activated and it will seamlessly take over the integration that once was in the WooCommerce plugin, once you update to the next version."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Include the following html code snippet within the page where you want to have the opt-out, e.g. the your Imprint our Data Privacy page:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "https://gist.github.com/claudiosmweb/b12d15b245be21c92ebc"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Exact wording depends on the national data privacy laws and should be adjusted."
+msgstr ""

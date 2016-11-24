@@ -1,0 +1,34 @@
+# BEGIN GD-SSL
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_USER_AGENT} ^(.+)$
+RewriteCond %{SERVER_NAME} ^www\.dev\.pureformgolf\.com$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+Header add Strict-Transport-Security "max-age=300"
+</IfModule>
+# END GD-SSL
+
+# BEGIN YOAST REDIRECTS
+<IfModule mod_rewrite.c>
+RewriteEngine On
+Redirect 301 "/pxg-in-australia" "/pxg"
+Redirect 301 "/reviews" "/golf-club-reviews"
+Redirect 301 "/product/hourly-fitting-fee-99hr" "/product/hourly-fitting-fee-1hr"
+Redirect 301 "/king-cobra-f6-review" "/king-cobra-f6"
+Redirect 301 "/hp2016" "/"
+Redirect 307 "/https:///refer-a-friend" "/referred-friends"
+</IfModule>
+# END YOAST REDIRECTS
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

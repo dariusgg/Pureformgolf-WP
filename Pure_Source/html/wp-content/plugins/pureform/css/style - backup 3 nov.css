@@ -1,0 +1,292 @@
+/*=.=.=.=.=---STYLE FOR---=.=.=.=.=*/
+
+/* Getting the new tags to behave */
+article, aside, audio, 
+canvas, command, 
+datalist, details, 
+embed, 
+figcaption, figure, footer, 
+header, hgroup, 
+keygen, 
+meter, 
+nav, 
+output, 
+progress, 
+section, source, 
+video {
+	display:block;
+}
+mark, 
+rp, rt, ruby, 
+summary, 
+time {
+	display:inline;
+}
+
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* Global properties */
+*{ padding:0px; margin:0px; outline:none; border:none; list-style:none; text-decoration:none; }
+.noBdr{ border:none !important; }
+.clr{ line-height:0px; font-size:0px; clear:both; }
+
+body{ font:normal 14px/18px Arial, Helvetica, sans-serif; color:#000;}
+/*font-family: 'Ubuntu', sans-serif;*/
+/*font-family: 'Ubuntu Condensed', sans-serif;*/
+
+.wrapper{ width: 100%; float: left; margin: 40px 0;}
+.container{ max-width: 1200px; margin: 0 auto;}
+.entry-wrap{padding: 0;}
+form{margin: 0;}
+/*============STEP-1============*/
+.frm-wrap-main{ width: 100%; float: left;}
+.frm-wrap {  background-color: #fff; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; -moz-box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.133);
+ -webkit-box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.133); box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.133);  display: block;  padding: 60px 60px 40px; width: 100%; float: left;position: relative;}
+.frm_sec{ width: 100%; float: left;}
+.frm_sec h3{ padding: 0px; margin: 0px; text-align: center; font: 400 42px/45px 'Ubuntu Condensed', sans-serif; color:#606060; }
+.standerd_bag_box{ width: 310px; float: left; margin: 30px 5px 0; border: 1px solid #f3f3f3; background: #f9f9f9; position: relative; padding: 30px 15px;
+position: relative;}
+.standerd_bag_top{ width: 100%; float: left; padding-bottom: 26px; background: url(../images/bdr.jpg) no-repeat center bottom;}
+.standerd_bag_top h5{ width: 100%; text-align: center; font: 400 28px/30px 'Ubuntu Condensed', sans-serif; color:#606060; padding: 0px; margin: 0px;}
+.standerd_bag_top h4{ width: 100%; text-align: center; font: 400 45px/35px 'Ubuntu Condensed', sans-serif; color:#606060; padding: 22px 0 0; margin: 0px;}
+.standerd_bag_mid{ width: 100%; float: left; padding: 0 0 26px 0; min-height: 160px;}
+.standerd_bag_mid ul{ padding: 0px; margin: 0px; display: inline-block; text-align: center; list-style: none; width: 100%;}
+.standerd_bag_mid ul li{ padding: 0px; margin: 20px 0 0; display: inline-block; text-align: center; width: 100%;
+font: 400 18px/22px 'Ubuntu', sans-serif; color:#848484; }
+.standerd_bag_mid ul li img{ max-width: 100%; margin: 0 6px 0 0;}
+.standerd_bag_btn{ width: 100%; float: left; text-align: center;}
+.standerd_bag_btn a{ display: inline-block; background: #00ccff; color:#fff; text-align: center; font: 500 14px/16px 'Ubuntu', sans-serif; padding: 14px 40px; text-transform: uppercase;
+border: 1px solid #03bfdc;}
+.note_sec{ width: 100%; float: left; margin-top: 25px;}
+.note_sec p{ padding: 0px; margin: 0px; font: 400 12px/14px 'Ubuntu', sans-serif; color:#b5b5b5;}
+.note_sec a{ padding: 0px; margin: 0px; font: 400 14px/16px 'Ubuntu', sans-serif; color:#848484; text-transform: uppercase; display: block;}
+.note_sec a img{ max-width: 100%; margin: 1px 6px 0 0; float: left;}
+
+.ribon_prt{width: auto; position: absolute; right: 0; top: 0;}
+
+/*============STEP-2============*/
+.select_club_sec{ padding: 22px 0 140px 0; width: 100%; float: left;}
+.selct_bx{ width: 340px; float: left; margin: 20px 10px 0; border: 1px solid #f3f3f3; background: #f9f9f9; text-align: center;}
+.selct_bx a{ padding: 8px 26px 8px 15px; display: block; margin: 0px; text-align: center; font: 400 28px/64px 'Ubuntu Condensed', sans-serif; color:#606060;
+background: url(../images/sml_arw.png) no-repeat 92% center; width: 100%; float: left;}
+
+.select_club_sec .data_selected {
+    border: 0px solid #33c3f1;
+    padding: 8px 26px 8px 15px !important;
+    background-color: #33c3f1 !important;
+}
+
+.select_club_sec .data_selected_city {
+    border: 0px solid #33c3f1;
+    padding: 8px 26px 8px 15px !important;
+    background-color: #33c3f1 !important;
+}
+
+
+.in_sec_in ul li a.active_time{border: 1px solid #33c3f1 !important;}
+
+
+.selct_bx a img{ max-width: 100%; float: left; margin: 0px;}
+
+
+/*============STEP-3============*/
+.stp3{ width: 100%; float: none; text-align: center; display: inline-block;}
+.stp3 .selct_bx{ display: inline-block; float: none; text-align: center;}
+.stp3_main{ padding: 50px 0 0;}
+
+
+/*====================step-4==================*/
+
+.top_line{width: 100%; height: 4px; background: #eee; position: absolute; top: 0; left: 0;}
+.top_line img{float: left; margin: 0;}
+.in_sec{width: 700px; margin: 0 auto;}
+.in_sec_in{width: 100%; float: left; margin: 118px 0 178px 0; text-align: center;}
+.in_sec_in h3{font: 400 34px/50px 'Ubuntu Condensed', sans-serif; color: #606060;}
+.in_sec_in ul{padding: 0; margin: 50px 0 0 0; text-align: center;}
+.in_sec_in ul li{display: inline-block; margin: 0 8px; width: 138px;}
+.in_sec_in ul li a{display: block; background: #f9f9f9; border: 1px solid #f3f3f3; font: 400 24px/100px 'Ubuntu Condensed', sans-serif; color: #606060;}
+.in_sec_in ul li a:hover{border: 1px solid #02cbff;}
+.in_sec_in ul li img{float: left; margin: 30px 0 0 16px;}
+.in_sec_in ul li input[type="text"]{width: 100%; background: none; padding: 0 5px; text-align: center; font: 400 24px 'Ubuntu Condensed', sans-serif; 
+color: #606060; height: 100px; background: #f9f9f9; border: 1px solid #f3f3f3;}
+.in_sec_in ul li input[type="text"]:hover{border: 1px solid #02cbff;}
+.in_sec_in ul li input[type="text"]:focus{border: 1px solid #02cbff;}
+.big_list{width: 350px !important;}
+
+.back_ber{width: 100%; float: left;}
+.back_box{width: auto; float: left;}
+.back_box a{display: block; font: 700 12px/12px 'Ubuntu Condensed', sans-serif; color: #868686; background: url(../images/aro.jpg) no-repeat left center; 
+padding: 0 0 0 20px;}
+
+
+/*====================step-5==================*/
+
+.full_box{padding: 45px 60px 40px 60px;}
+.in_form{width: 510px; margin: 0 auto;}
+.in_form_inr{width: 100%; float: left; text-align: center;}
+.in_form_inr h4{font: 400 42px/50px 'Ubuntu Condensed', sans-serif; color: #606060; padding: 0 0 25px 0;}
+.in_form_inr label{width: 100%; float: left; text-align: left; font: 500 15px/30px 'Ubuntu', sans-serif; color: #606060; display: block; margin: 10px 0 0 0;}
+.in_form_inr input[type="text"]{width: 100%; height: 35px; float: left; border: 1px solid #ddd; -webkit-border-radius: 4px; -moz-border-radius: 4px;
+border-radius: 4px; padding: 0 5px; font: 500 15px 'Ubuntu', sans-serif; color: #606060; text-align: left;
+transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s; margin: 5px 0 0 0;}
+.in_form_inr input[type="text"]:focus{box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.2);}
+.in_form_inr input[type="submit"]{width: 160px; height: 45px; display: inline-block; margin: 40px 0 0 0; border: 1px solid #00beed; cursor: pointer;
+font: 500 16px 'Ubuntu', sans-serif; color: #fff; text-align: center; background: #00ccff;}
+
+
+
+
+/*====================step-6==================*/
+
+.ace_box{width: 100%; float: left; padding: 32px 0 90px 0; text-align: center;}
+.ace_box h4{font: 400 32px/50px 'Ubuntu Condensed', sans-serif; color: #606060; padding: 40px 0 0 0;}
+.ace_box p{font: 400 25px/30px 'Ubuntu Condensed', sans-serif; color: #606060; padding: 40px 0 0 0;}
+.bot_btn{display: inline-block; background: #00ccff; width: 160px; border: 1px solid #00beed; text-align: center; margin: 50px 0 0 0;}
+.bot_btn a{font: 500 16px/45px 'Ubuntu', sans-serif; color: #fff; display: block;}
+
+.error{float: left; text-align: right; width: 100%;}
+
+
+
+
+
+
+
+@media only screen and (min-width:1000px) and (max-width:1199px)
+{
+.container{ width: 88%;}
+.standerd_bag_box{ width: 32%;}
+.selct_bx{ width: 30.666%;}
+.selct_bx a{ font: 400 22px/64px "Ubuntu Condensed",sans-serif;}
+.standerd_bag_mid ul li{ font: 400 15px/20px "Ubuntu",sans-serif;}
+
+.line2{width: 30%; height: 4px;}
+.line3{width: 40%; height: 4px;}
+.line4{width: 60%; height: 4px;}
+.line5{width: 75%; height: 4px;}
+.line6{width: 100%; height: 4px;}
+
+}
+
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:999px)
+{
+.container{ width: 88%;}
+.frm-wrap{ padding: 30px;}
+.standerd_bag_box{ width: 31.555%; padding: 20px 15px;}
+.standerd_bag_mid{ min-height: 136px;}
+.standerd_bag_mid ul li{ font: 300 15px/18px "Oswald",sans-serif; margin: 16px 0 0;}
+.standerd_bag_top h5{ font: 300 26px/28px "Oswald",sans-serif;}
+.standerd_bag_top h4{ font: 400 27px/30px "Oswald",sans-serif; padding: 17px 0 0;}
+.standerd_bag_btn a{ padding: 12px 28px;}
+.standerd_bag_top{ padding-bottom: 18px;}
+.selct_bx{ width: 46.333%;}
+.selct_bx a{ font: 400 26px/64px "Ubuntu Condensed",sans-serif;}
+.select_club_sec{ padding: 22px 0 60px;}
+
+/*=============step-4/5/6===============*/
+.in_sec_in ul li{width: 18%; }
+.in_sec_in ul li a{padding: 0 3% 0 0;}
+.in_sec_in ul li img{margin: 30px 0 0 3%;}
+.big_list{width: 35% !important; padding: 0;}
+
+
+.line2{width: 30%; height: 4px;}
+.line3{width: 40%; height: 4px;}
+.line4{width: 60%; height: 4px;}
+.line5{width: 75%; height: 4px;}
+.line6{width: 100%; height: 4px;}
+
+
+}
+
+
+@media only screen and (max-width:767px) 
+{
+.container{ width: 88%;}
+.frm-wrap{ padding: 35px;}
+.standerd_bag_mid{ min-height: inherit;}
+.standerd_bag_mid ul li{ font: 300 15px/18px "Oswald",sans-serif; margin: 16px 0 0;}
+.standerd_bag_top h5{ font: 300 26px/28px "Oswald",sans-serif;}
+.standerd_bag_top h4{ font: 400 27px/30px "Oswald",sans-serif; padding: 17px 0 0;}
+.standerd_bag_btn a{ padding: 12px 28px;}
+.standerd_bag_top{ padding-bottom: 18px;}
+.standerd_bag_box{ width: 100%; padding: 15px; margin: 20px 0 0;}
+.selct_bx{ width: 45%;}
+.selct_bx a{ font: 400 21px/62px "Ubuntu Condensed",sans-serif;}
+.select_club_sec{ padding: 22px 0 40px;}
+.stp3_main { padding: 0;}
+.frm_sec h3{ font: 400 32px/39px "Ubuntu Condensed",sans-serif;}
+
+/*=============step-4/5/6===============*/
+.in_sec_in ul li{width: 18%; }
+.in_sec_in ul li a{padding: 0 3% 0 0; font-size: 18px; line-height: 60px;}
+.in_sec_in ul li img{margin: 10px 0 0 3%;}
+.big_list{width: 35% !important; padding: 0;}
+.in_sec_in ul li input[type="text"]{height: 60px; font-size: 18px;}
+
+.line2{width: 30%; height: 4px;}
+.line3{width: 40%; height: 4px;}
+.line4{width: 60%; height: 4px;}
+.line5{width: 75%; height: 4px;}
+.line6{width: 100%; height: 4px;}
+
+.ace_box h4{padding: 10px 0 0 0;}
+.ace_box p{padding: 20px 0 0 0;}
+
+.in_form{width: 90%;}
+.in_form_inr h4{font-size: 30px;}
+
+}
+
+
+@media only screen and (max-width:600px)
+{
+.selct_bx{ width: 100%; margin: 20px 0 0;}
+
+}
+
+
+@media only screen and (max-width:520px)
+{
+.in_sec_in{margin: 0 0 25px 0;}	
+.in_sec_in h3{font-size: 24px; line-height: 40px;}	
+.in_sec_in ul li{width: 100%; margin: 15px 0 0 0;}	
+.big_list{width: 100% !important;}
+
+.ace_box h4{padding: 10px 0 0 0; font-size: 24px;}
+.ace_box p{padding: 20px 0 0 0; font-size: 18px;}
+.ace_box p br{display: none;}
+
+.in_form{width: 90%;}
+.in_form_inr h4{font-size: 20px;}
+.in_form_inr label{margin: 15px 0 0 0;}
+.in_form_inr h4{padding: 0;}
+.back_ber{margin: 20px 0 0 0;}
+}	
+
+@media only screen and (max-width:479px)
+{
+.frm-wrap{ padding: 25px;}
+.standerd_bag_box{ width: 100%; padding: 12px;}
+
+.in_sec_in h3{font-size: 20px;}
+.in_sec_in ul{margin: 25px 0 0 0;}
+
+}
+
+
+
+
+
+

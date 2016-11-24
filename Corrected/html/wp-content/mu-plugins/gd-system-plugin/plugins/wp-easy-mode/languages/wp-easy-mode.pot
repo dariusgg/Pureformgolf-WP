@@ -1,0 +1,532 @@
+#: includes/class-admin.php:196
+msgctxt "Main plugin title"
+msgid "WP Easy Mode"
+msgstr ""
+
+#: includes/class-admin.php:197
+msgctxt "Menu title"
+msgid "Easy Mode"
+msgstr ""
+
+#: includes/class-admin.php:253
+msgid "Are you sure you want to exit and configure WordPress on your own?"
+msgstr ""
+
+#: includes/class-admin.php:278
+msgid "Expand Sidebar"
+msgstr ""
+
+#: includes/class-admin.php:279 includes/class-step-theme.php:215
+msgid "Collapse Sidebar"
+msgstr ""
+
+#: includes/class-customizer.php:22
+msgid "Watch Video"
+msgstr ""
+
+#: includes/class-customizer.php:23
+msgid ""
+"You've just created your website! Click \"Watch Video\" to view a quick "
+"demonstration of how to customize your site."
+msgstr ""
+
+#: includes/class-customizer.php:27
+msgid "Learn More"
+msgstr ""
+
+#: includes/class-customizer.php:28
+msgid ""
+"You've just created your website! Click \"Learn More\" to view some tips on "
+"how to customize your site."
+msgstr ""
+
+#: includes/class-customizer.php:43
+msgid "Congratulations!"
+msgstr ""
+
+#: includes/class-customizer.php:137
+msgid "The Customizer"
+msgstr ""
+
+#: includes/class-customizer.php:139
+msgid ""
+"You are now in the Customizer, a tool that enables you to make changes to "
+"your websites appearance, and preview those changes before publishing them. "
+"Weve created a few commonly-used pages and widgets to help you get started."
+msgstr ""
+
+#: includes/class-customizer.php:140
+msgid ""
+"The top of the Customizer indicates the name of the active theme youve "
+"selected. You can change the theme at any time, but doing so will change "
+"these options and reset any customizations you might have made here."
+msgstr ""
+
+#: includes/class-customizer.php:141
+msgid ""
+"The options available in the Customizer will vary, depending on the features "
+"supported by your current theme. But most themes include these basic "
+"Customizer controls:"
+msgstr ""
+
+#: includes/class-customizer.php:143
+msgid "Site Identity"
+msgstr ""
+
+#: includes/class-customizer.php:144
+msgid "Colors"
+msgstr ""
+
+#: includes/class-customizer.php:145
+msgid "Header and Background Images"
+msgstr ""
+
+#: includes/class-customizer.php:146
+msgid "Navigation Menus"
+msgstr ""
+
+#: includes/class-customizer.php:147
+msgid "Widgets"
+msgstr ""
+
+#: includes/class-customizer.php:149
+msgid ""
+"When youre happy with your changes, click <strong>Save & Publish</strong> to "
+"keep these new settings. Or, simply close the Customizer by clicking the X "
+"in the top left-hand corner to discard your changes."
+msgstr ""
+
+#: includes/class-step-contact.php:31 includes/class-step-contact.php:32
+msgid "Contact"
+msgstr ""
+
+#: includes/class-step-contact.php:72
+msgid "Email"
+msgstr ""
+
+#: includes/class-step-contact.php:75
+msgid "An email address where website vistors can contact you."
+msgstr ""
+
+#: includes/class-step-contact.php:79
+msgid "Enter your email address here"
+msgstr ""
+
+#: includes/class-step-contact.php:85
+msgid "Phone Number"
+msgstr ""
+
+#: includes/class-step-contact.php:88
+msgid "A phone number that website vistors can call if they have questions."
+msgstr ""
+
+#: includes/class-step-contact.php:92
+msgid "Enter your phone number here"
+msgstr ""
+
+#: includes/class-step-contact.php:98
+msgid "Fax Number"
+msgstr ""
+
+#: includes/class-step-contact.php:101
+msgid "A fax number that website vistors can use to send important documents."
+msgstr ""
+
+#: includes/class-step-contact.php:105
+msgid "Enter your fax number here"
+msgstr ""
+
+#: includes/class-step-contact.php:111
+msgid "Address"
+msgstr ""
+
+#: includes/class-step-contact.php:116
+msgid "A physical address where website vistors can go to visit you in person."
+msgstr ""
+
+#: includes/class-step-contact.php:120
+msgid "Enter your street address here"
+msgstr ""
+
+#: includes/class-step-contact.php:142
+msgid "Please provide the contact details for your website"
+msgstr ""
+
+#: includes/class-step-contact.php:162
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/class-step-contact.php:164
+msgid ""
+"Add links to the social profiles where website vistors can follow and learn "
+"more about you."
+msgstr ""
+
+#: includes/class-step-contact.php:207
+msgid "Skip"
+msgstr ""
+
+#: includes/class-step-contact.php:208 includes/class-step-settings.php:139
+#: includes/class-step-start.php:59
+msgid "Continue"
+msgstr ""
+
+#: includes/class-step-settings.php:41 includes/class-step-settings.php:42
+msgid "Settings"
+msgstr ""
+
+#: includes/class-step-settings.php:56
+msgid "Type"
+msgstr ""
+
+#: includes/class-step-settings.php:59
+msgid "What type of website would you like to create?"
+msgstr ""
+
+#: includes/class-step-settings.php:63
+msgid "Website + Blog"
+msgstr ""
+
+#: includes/class-step-settings.php:64
+msgid "Blog only"
+msgstr ""
+
+#: includes/class-step-settings.php:65
+msgid "Online Store"
+msgstr ""
+
+#: includes/class-step-settings.php:70
+msgid "Industry"
+msgstr ""
+
+#: includes/class-step-settings.php:73
+msgid "What will your website be about?"
+msgstr ""
+
+#: includes/class-step-settings.php:80
+msgid "Title"
+msgstr ""
+
+#: includes/class-step-settings.php:85
+msgid ""
+"The title of your website appears at the top of all pages and in search "
+"results."
+msgstr ""
+
+#: includes/class-step-settings.php:89
+msgid "Enter your website title here"
+msgstr ""
+
+#: includes/class-step-settings.php:94
+msgid "Tagline"
+msgstr ""
+
+#: includes/class-step-settings.php:99
+msgid ""
+"Think of the tagline as a slogan that describes what makes your website "
+"special. It will also appear in search results."
+msgstr ""
+
+#: includes/class-step-settings.php:103
+msgid "Enter your website tagline here"
+msgstr ""
+
+#: includes/class-step-settings.php:121
+msgid "Please tell us more about your website (all fields are required)"
+msgstr ""
+
+#: includes/class-step-start.php:24
+msgid "Start"
+msgstr ""
+
+#: includes/class-step-start.php:25
+msgid "Create a WordPress Website"
+msgstr ""
+
+#: includes/class-step-start.php:44
+msgid ""
+"Our WordPress setup wizard will help you create a fully-functional website "
+"in just a few simple steps so you can get online faster - no code required!"
+msgstr ""
+
+#: includes/class-step-start.php:46
+msgid "It's completely optional and will only take a few minutes."
+msgstr ""
+
+#: includes/class-step-start.php:58
+msgid "No thanks"
+msgstr ""
+
+#: includes/class-step-theme.php:41
+msgid "Theme"
+msgstr ""
+
+#: includes/class-step-theme.php:42
+msgid "Choose a Theme"
+msgstr ""
+
+#: includes/class-step-theme.php:65 includes/class-step-theme.php:90
+#: includes/class-step-theme.php:114
+#, php-format
+msgid "Step %1$s of %2$s"
+msgstr ""
+
+#: includes/class-step-theme.php:66
+msgid "Choose a stylish header image for your website."
+msgstr ""
+
+#: includes/class-step-theme.php:74 includes/class-step-theme.php:99
+#: includes/class-step-theme.php:201
+msgid "Next"
+msgstr ""
+
+#: includes/class-step-theme.php:91
+msgid "Preview different website designs using the the left and right arrows."
+msgstr ""
+
+#: includes/class-step-theme.php:115
+msgid "When you've found a design you like, click Select to install it."
+msgstr ""
+
+#: includes/class-step-theme.php:123 includes/class-step-theme.php:199
+msgid "Close"
+msgstr ""
+
+#: includes/class-step-theme.php:177
+msgid ""
+"Choose a design for your website (don't worry, you can change this later)"
+msgstr ""
+
+#: includes/class-step-theme.php:188
+msgid "Preview"
+msgstr ""
+
+#: includes/class-step-theme.php:189 includes/class-step-theme.php:207
+msgid "By"
+msgstr ""
+
+#: includes/class-step-theme.php:200
+msgid "Previous"
+msgstr ""
+
+#: includes/class-step-theme.php:202
+msgid "Select"
+msgstr ""
+
+#: includes/class-step-theme.php:217
+msgid "Collapse"
+msgstr ""
+
+#: includes/class-step-theme.php:227
+msgid "Suggested Header Images"
+msgstr ""
+
+#: includes/class-step-theme.php:259
+msgid "Set image"
+msgstr ""
+
+#: includes/class-step-theme.php:265
+msgid ""
+"You can change this header image again later, or even upload a custom image "
+"from your computer."
+msgstr ""
+
+#: includes/functions.php:148
+msgid "Business / Finance / Law"
+msgstr ""
+
+#: includes/functions.php:152
+msgid "Design / Art / Portfolio"
+msgstr ""
+
+#: includes/functions.php:156
+msgid "Education"
+msgstr ""
+
+#: includes/functions.php:160
+msgid "Health / Beauty"
+msgstr ""
+
+#: includes/functions.php:164
+msgid "Home Services / Construction"
+msgstr ""
+
+#: includes/functions.php:168
+msgid "Music / Movies / Entertainment"
+msgstr ""
+
+#: includes/functions.php:172
+msgid "Non-profit / Causes / Religious"
+msgstr ""
+
+#: includes/functions.php:176
+msgid "Other"
+msgstr ""
+
+#: includes/functions.php:180
+msgid "Pets / Animals"
+msgstr ""
+
+#: includes/functions.php:184
+msgid "Real Estate"
+msgstr ""
+
+#: includes/functions.php:188
+msgid "Restaurant / Food"
+msgstr ""
+
+#: includes/functions.php:192
+msgid "Sports / Recreation"
+msgstr ""
+
+#: includes/functions.php:196
+msgid "Transportation / Automotive"
+msgstr ""
+
+#: includes/functions.php:200
+msgid "Travel / Hospitality / Leisure"
+msgstr ""
+
+#: includes/functions.php:204
+msgid "Wedding"
+msgstr ""
+
+#: includes/functions.php:217
+msgid "- Select an industry -"
+msgstr ""
+
+#: includes/social-networks.php:3
+msgctxt "Must be lowercase and use URL-safe characters"
+msgid "username"
+msgstr ""
+
+#: includes/social-networks.php:4
+msgctxt "Must be lowercase and use URL-safe characters"
+msgid "channel"
+msgstr ""
+
+#: includes/social-networks.php:5
+msgctxt "Must be lowercase and use URL-safe characters"
+msgid "company"
+msgstr ""
+
+#: includes/social-networks.php:6
+msgctxt "Must be lowercase and use URL-safe characters"
+msgid "board"
+msgstr ""
+
+#: includes/social-networks.php:11
+msgid "Facebook"
+msgstr ""
+
+#: includes/social-networks.php:16
+msgid "Twitter"
+msgstr ""
+
+#: includes/social-networks.php:22
+msgid "Google+"
+msgstr ""
+
+#: includes/social-networks.php:28
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/social-networks.php:33
+msgid "Pinterest"
+msgstr ""
+
+#: includes/social-networks.php:38
+msgid "YouTube"
+msgstr ""
+
+#: includes/social-networks.php:43
+msgid "Vimeo"
+msgstr ""
+
+#: includes/social-networks.php:48
+msgid "Flickr"
+msgstr ""
+
+#: includes/social-networks.php:53
+msgid "Foursquare"
+msgstr ""
+
+#: includes/social-networks.php:58
+msgid "GitHub"
+msgstr ""
+
+#: includes/social-networks.php:63
+msgid "Slack"
+msgstr ""
+
+#: includes/social-networks.php:68
+msgid "Skype"
+msgstr ""
+
+#: includes/social-networks.php:73
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/social-networks.php:78
+msgid "TripAdvisor"
+msgstr ""
+
+#: includes/social-networks.php:82 templates/fullscreen.php:38
+msgid "WordPress"
+msgstr ""
+
+#: includes/social-networks.php:87
+msgid "Yelp"
+msgstr ""
+
+#: includes/social-networks.php:92
+msgid "Amazon"
+msgstr ""
+
+#: includes/social-networks.php:96
+msgid "Instagram"
+msgstr ""
+
+#: includes/social-networks.php:101
+msgid "Vine"
+msgstr ""
+
+#: includes/social-networks.php:106
+msgid "reddit"
+msgstr ""
+
+#: includes/social-networks.php:111
+msgid "XING"
+msgstr ""
+
+#: includes/social-networks.php:115
+msgid "Tumblr"
+msgstr ""
+
+#: includes/social-networks.php:120
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/social-networks.php:124
+msgid "WeChat"
+msgstr ""
+
+#: includes/social-networks.php:128
+msgid "Medium"
+msgstr ""
+
+#: includes/social-networks.php:133
+msgid "Dribbble"
+msgstr ""
+
+#: includes/social-networks.php:138
+msgid "Twitch"
+msgstr ""
+
+#: includes/social-networks.php:143
+msgid "VK"
+msgstr ""
+
+#: includes/social-networks.php:147
+msgid "Trello"
+msgstr ""

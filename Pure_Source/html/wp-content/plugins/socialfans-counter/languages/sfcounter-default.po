@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SocialFans counter\n"
+"POT-Creation-Date: 2014-08-29 11:23+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Themeinity <we@themeinity.com>\n"
+"Language-Team: Themeinity <we@themeinity.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/socialfans-counter-plugin-class.php:56
+msgid "New"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:61
+#: includes/templates/socialfans-counter-panel-html.php:28
+msgid "Setting"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:62
+msgid "Docs"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:67
+msgid "New Update"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:236
+#: includes/socialfans-counter-plugin-class.php:255
+msgid "Fans"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:237
+msgid "Like"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:247
+#: includes/socialfans-counter-plugin-class.php:262
+#: includes/socialfans-counter-plugin-class.php:272
+#: includes/socialfans-counter-plugin-class.php:279
+#: includes/socialfans-counter-plugin-class.php:295
+#: includes/socialfans-counter-plugin-class.php:304
+#: includes/socialfans-counter-plugin-class.php:312
+#: includes/socialfans-counter-plugin-class.php:320
+#: includes/socialfans-counter-plugin-class.php:334
+#: includes/socialfans-counter-plugin-class.php:350
+#: includes/socialfans-counter-plugin-class.php:373
+#: includes/socialfans-counter-plugin-class.php:390
+#: includes/socialfans-counter-plugin-class.php:398
+#: includes/socialfans-counter-plugin-class.php:405
+#: includes/socialfans-counter-plugin-class.php:414
+#: includes/socialfans-counter-plugin-class.php:424
+#: includes/socialfans-counter-plugin-class.php:446
+msgid "Followers"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:248
+#: includes/socialfans-counter-plugin-class.php:256
+#: includes/socialfans-counter-plugin-class.php:263
+#: includes/socialfans-counter-plugin-class.php:273
+#: includes/socialfans-counter-plugin-class.php:280
+#: includes/socialfans-counter-plugin-class.php:296
+#: includes/socialfans-counter-plugin-class.php:305
+#: includes/socialfans-counter-plugin-class.php:313
+#: includes/socialfans-counter-plugin-class.php:321
+#: includes/socialfans-counter-plugin-class.php:335
+#: includes/socialfans-counter-plugin-class.php:351
+#: includes/socialfans-counter-plugin-class.php:359
+#: includes/socialfans-counter-plugin-class.php:374
+#: includes/socialfans-counter-plugin-class.php:391
+#: includes/socialfans-counter-plugin-class.php:399
+#: includes/socialfans-counter-plugin-class.php:406
+#: includes/socialfans-counter-plugin-class.php:415
+#: includes/socialfans-counter-plugin-class.php:425
+#: includes/socialfans-counter-plugin-class.php:447
+#: includes/socialfans-counter-plugin-class.php:461
+msgid "Follow"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:288
+#: includes/socialfans-counter-plugin-class.php:342
+#: includes/socialfans-counter-plugin-class.php:365
+#: includes/socialfans-counter-plugin-class.php:381
+#: includes/socialfans-counter-plugin-class.php:440
+msgid "Subscribers"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:289
+#: includes/socialfans-counter-plugin-class.php:343
+#: includes/socialfans-counter-plugin-class.php:366
+#: includes/socialfans-counter-plugin-class.php:382
+msgid "Subscribe"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:327
+msgid "Friends"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:328
+msgid "Add"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:430
+msgid "Posts"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:435
+msgid "Comments"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:453
+msgid "Members"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:454
+msgid "Join"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:460
+msgid "Followrs"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:466
+msgid "Fans Love us"
+msgstr ""
+
+#: includes/socialfans-counter-plugin-class.php:471
+msgid "Social Stats"
+msgstr ""
+
+# English translations for SocialFans Counter Plugin.
+# Copyright (C) 2013 SocialFans Counter Plugin
+# This file is distributed under the same license as the SocialFans Counter Plugin.
+#
+#: includes/socialfans-counter-panel-class.php:152
+#, php-format
+msgid "Need help for %s? click %s"
+msgstr ""
+
+#: includes/socialfans-counter-panel-class.php:152
+msgid "here"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:32
+msgid "Options Updated"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:194
+msgid "Fans Text"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:196
+msgid "Hover Text"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:199
+msgid "Cache Period"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:207
+msgid "Total"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:209
+msgid "Fans Total Text"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:217
+msgid "Useful Links"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:220
+msgid "Have a Question?"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:221
+msgid "Documentation"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:222
+msgid "Rate please!"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:227
+msgid "Settings"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:230
+msgid "Default Cache Period:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:231
+msgid "Numbers Format:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:235
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:237
+msgid "Title:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:238
+msgid "New Window:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:239
+msgid "Nofollow Links:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:240
+msgid "Hide Title:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:241
+msgid "Hide Numbers:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:242
+msgid "Show Total:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:243
+msgid "Box Width:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:244
+msgid "Columns:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:244
+msgid "1 Column"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:244
+msgid "2 Columns"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:244
+msgid "3 Columns"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:244
+msgid "4 Columns"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:245
+msgid "Effects:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:245
+#: includes/templates/socialfans-counter-widget-form-html.php:53
+msgid "No Effect (No Hover Text)"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:245
+msgid "Effect 1"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:245
+msgid "Effect 2"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:245
+msgid "Effect 3"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+msgid "Shake:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:63
+msgid "None"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:64
+msgid "Normal"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:65
+msgid "Slow"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:66
+msgid "Hard"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:67
+msgid "Little"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:68
+msgid "Horizontal"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:69
+msgid "Vertical"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:70
+msgid "Rotate"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:71
+msgid "Opacity"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:246
+#: includes/templates/socialfans-counter-widget-form-html.php:72
+msgid "Crazy"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:247
+msgid "Icon Color:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:247
+#: includes/templates/socialfans-counter-panel-html.php:248
+#: includes/templates/socialfans-counter-panel-html.php:249
+#: includes/templates/socialfans-counter-panel-html.php:250
+#: includes/templates/socialfans-counter-widget-form-html.php:79
+#: includes/templates/socialfans-counter-widget-form-html.php:88
+#: includes/templates/socialfans-counter-widget-form-html.php:98
+#: includes/templates/socialfans-counter-widget-form-html.php:107
+msgid "Light"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:247
+#: includes/templates/socialfans-counter-panel-html.php:248
+#: includes/templates/socialfans-counter-panel-html.php:249
+#: includes/templates/socialfans-counter-panel-html.php:250
+#: includes/templates/socialfans-counter-widget-form-html.php:80
+#: includes/templates/socialfans-counter-widget-form-html.php:89
+#: includes/templates/socialfans-counter-widget-form-html.php:99
+#: includes/templates/socialfans-counter-widget-form-html.php:108
+msgid "Dark"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:247
+#: includes/templates/socialfans-counter-panel-html.php:248
+#: includes/templates/socialfans-counter-panel-html.php:249
+#: includes/templates/socialfans-counter-panel-html.php:250
+#: includes/templates/socialfans-counter-widget-form-html.php:81
+#: includes/templates/socialfans-counter-widget-form-html.php:90
+#: includes/templates/socialfans-counter-widget-form-html.php:100
+#: includes/templates/socialfans-counter-widget-form-html.php:109
+msgid "Colord"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:248
+msgid "Background Color:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:248
+#: includes/templates/socialfans-counter-widget-form-html.php:91
+msgid "Transparent"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:249
+msgid "Hover Text Color:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:250
+msgid "Hover Text Background Color:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:251
+msgid "Lastweek diffrence:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:252
+msgid "Show diffrence less than zero:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:253
+msgid "Diff text color:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:254
+msgid "Diff Background color:"
+msgstr ""
+
+#: includes/templates/socialfans-counter-panel-html.php:256
+msgid "Copy"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:2
+msgid "Title"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:7
+msgid "New Window"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:12
+msgid "Nofollow Links"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:17
+msgid "Hide Title"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:23
+msgid "Hide Numbers"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:25
+msgid "show all enabled socials without numbers"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:29
+msgid "Show Total"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:31
+msgid "Show sum social accounts fans"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:35
+msgid "Box Width"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:37
+msgid "force box with custom width"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:41
+#: includes/templates/socialfans-counter-widget-form-html.php:44
+#: includes/templates/socialfans-counter-widget-form-html.php:45
+#: includes/templates/socialfans-counter-widget-form-html.php:46
+msgid "Columns"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:43
+msgid "Column"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:51
+msgid "Effects"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:54
+#: includes/templates/socialfans-counter-widget-form-html.php:55
+#: includes/templates/socialfans-counter-widget-form-html.php:56
+msgid "Effect"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:61
+msgid "Shake"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:77
+msgid "Icon / Text Color"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:86
+msgid "Background Color"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:96
+msgid "Hover Text Color"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:105
+msgid "Hover Text Background Color"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:114
+msgid "Lastweek diffrence"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:116
+msgid "show last week diffrence count"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:120
+msgid "Show diffrence less than zero"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:122
+msgid "show last week diffrence count if less than zero"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:126
+msgid "Diff text color"
+msgstr ""
+
+#: includes/templates/socialfans-counter-widget-form-html.php:131
+msgid "Diff Background color"
+msgstr ""
+
+#: widgets/socialfans-counter-widget.php:9
+msgid "Show your social accounts stats"
+msgstr ""
+
+#: widgets/socialfans-counter-widget.php:11
+msgid "SocialFans Counter: Stats"
+msgstr ""
